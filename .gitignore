@@ -1,3 +1,9 @@
+#/Binaries
+#/Intermediate
+#/Saved
+**/Intermediate
+**/Saved
+
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -10,11 +16,11 @@
 # Precompiled Headers
 *.gch
 *.pch
+*.pdb
 
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
 
 # Fortran module files
 *.mod
